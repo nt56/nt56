@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **tirthnagbhushan56@gmail.com**
 
-- ⚡ Fun fact **Fitness & sports**
+- ⚡ Other Interest **Fitness & sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
