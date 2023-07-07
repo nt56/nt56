@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagbushan Tirth</h1>
-<h3 align="center">A passionate about frontend developer || Full stack developer || Java Programming</h3>
+<h3 align="center">A passionate about frontend developer || Web development || Java Programming</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nt56&label=Profile%20views&color=0e75b6&style=flat" alt="nt56" /> </p>
