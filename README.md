@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **My skillsets**
 
-- 🌱 I’m currently learning **MERN stack &  Java**
+- 🌱 I’m currently learning **DSA & Java Full Stack**
 
 - 💬 Ask me about **Coding & Development**
 
