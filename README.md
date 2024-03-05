@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Nagbushan Tirth</h1>
-<h3 align="center">A passionate about Frontend Development || Java Development || Java DSA || React || JavaScript || Java</h3>
+<h3 align="center">A passionate about Frontend Development | JavaScript | Java | React | JavaScript | DSA | Git-GItHub </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nt56&label=Profile%20views&color=0e75b6&style=flat" alt="nt56" /> </p>
 
 - 🔭 I’m currently working on **My skillsets**
 
-- 🌱 I’m currently learning **DSA & Java Full Stack**
+- 🌱 I’m currently learning ** DSA in Java & Building Projects In Frontend **
 
 - 💬 Ask me about **Coding & Development**
 
 - 📫 How to reach me **tirthnagbhushan56@gmail.com**
 
-- ⚡ Other Interest **Fitness & sports**
+- ⚡ Other Interest **Anime & sports**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/nagutirth56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nagutirth56" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nagbhushan-tirth-887865229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nagbhushan-tirth-887865229/" height="30" width="40" /></a>
-<a href="https://instagram.com/nagu.tirth_66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nagu.tirth_66" height="30" width="40" /></a>
+<a href="https://instagram.com/tirth_nagbhushan_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nagu.tirth_66" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://hashnode.com/@nagu56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@nagu56" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/nagutirth2121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nagutirth2121" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nagutirth66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/GeeksforGeeks" alt="https://www.hackerrank.com/nagutirth2121" height="30" width="40" /></a>
 <a href="https://discord.gg/nagu_56#5031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nagu_56#5031" height="30" width="40" /></a>
 </p>
 
