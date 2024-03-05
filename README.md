@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nagbhushan-tirth-887865229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nagbhushan-tirth-887865229/" height="30" width="40" /></a>
 <a href="https://instagram.com/tirth_nagbhushan_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nagu.tirth_66" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://hashnode.com/@nagu56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@nagu56" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nagutirth66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/GeeksforGeeks" alt="https://www.hackerrank.com/nagutirth2121" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nagutirth66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/GeeksforGeeks" alt="https://auth.geeksforgeeks.org/user/nagutirth66" height="30" width="40" /></a>
 <a href="https://discord.gg/nagu_56#5031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nagu_56#5031" height="30" width="40" /></a>
 </p>
 
