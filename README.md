@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nagbushan Tirth</h1>
-<h3 align="center">A passionate about Frontend Development | JavaScript | Java | React | JavaScript | DSA | Git-GItHub </h3>
+<h3 align="center">A passionate about Frontend Development | JavaScript | Core Java | React | Basic DSA | Git-GItHub </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nt56&label=Profile%20views&color=0e75b6&style=flat" alt="nt56" /> </p>
 
 - 🔭 I’m currently working on **My skillsets**
 
-- 🌱 I’m currently learning ** DSA in Java & Building Projects In Frontend **
+- 🌱 I’m currently learning ** Building Projects In Frontend & Exploring MERN Stack**
 
 - 💬 Ask me about **Coding & Development**
 
