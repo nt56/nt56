@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **My skillsets**
 
-- 🌱 I’m currently ** Searching for a Job and Exploring DSA**
+- 🌱 I’m currently ** Open for a Job and Exploring DSA**
 
 - 💬 Ask me about **Coding & Development**
 
