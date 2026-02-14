@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagabhushan Tirth</h1>
-<h3 align="center">Frontend Developer | JavaScript | React.js | Next.js | Typescript | React Native | Expo | MERN</h3>
+<h3 align="center">Frontend Developer | JavaScript | React.js | Next.js | Typescript | React Native | MERN</h3>
 
 ---
 
