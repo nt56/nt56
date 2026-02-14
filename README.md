@@ -7,8 +7,8 @@
 
 - 💼 Frontend Developer with hands-on experience building scalable web applications  
 - ⚡ Strong in **React, Next.js, TypeScript, Tailwind CSS**
-- 🧠 Currently improving **Data Structures & Algorithms**
-- 🔄 Preparing for my next career switch
+- 🧠 Currently improving **on my skillsets**
+- 🔄 Preparing for DSA and Interviews
 - 📫 Reach me at: **tirthnagbhushan56@gmail.com**
 
 ---
@@ -21,6 +21,7 @@
 - JavaScript (ES6+)
 - TypeScript
 - React.js
+- React Native with Expo
 - Next.js (App Router)
 - Tailwind CSS
 - Redux
@@ -59,8 +60,6 @@
 ## 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/nagbhushan-tirth-887865229/
-- Twitter: https://twitter.com/nagutirth56
-- Instagram: https://instagram.com/tirth_nagbhushan_22
 
 ---
 
