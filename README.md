@@ -7,8 +7,8 @@
 
 - 💼 Frontend Developer with hands-on experience building scalable web applications  
 - ⚡ Strong in **React, Next.js, TypeScript, Tailwind CSS**
-- 🧠 Currently improving **on my skillsets**
-- 🔄 Preparing for DSA and Interviews
+- 🧠 Actively sharpening my technical skills
+- 🔄 Focused on DSA and interview preparation
 - 📫 Reach me at: **tirthnagbhushan56@gmail.com**
 
 ---
